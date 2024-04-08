@@ -1,0 +1,159 @@
+{
+  "Id": 27,
+  "Name": "260-fw-update-pfc200",
+  "Status": {
+    "13": {
+      "Status": [
+        {
+          "Time": 1712240156,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240159,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240289,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240292,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240886,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240891,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240893,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240895,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240986,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240990,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240991,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712240993,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712241126,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712241129,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712241135,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712241137,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712291493,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712291495,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712291501,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1712291503,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        }
+      ],
+      "EndpointID": 13,
+      "DeploymentInfo": {
+        "Version": 0,
+        "FileVersion": 0,
+        "ConfigHash": ""
+      },
+      "Details": {
+        "Pending": false,
+        "Ok": false,
+        "Error": false,
+        "Acknowledged": false,
+        "Remove": false,
+        "RemoteUpdateSuccess": false,
+        "ImagesPulled": false
+      },
+      "Error": "",
+      "Type": 0
+    }
+  },
+  "CreationDate": 1710412237,
+  "EdgeGroups": [
+    30
+  ],
+  "ProjectPath": "/data/edge_stacks/27",
+  "EntryPoint": "docker-compose.yml",
+  "Version": 1,
+  "NumDeployments": 1,
+  "ManifestPath": "",
+  "DeploymentType": 0,
+  "UseManifestNamespaces": false,
+  "Prune": false
+}

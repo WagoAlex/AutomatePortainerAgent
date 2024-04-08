@@ -1,0 +1,17 @@
+{
+  "Id": 13,
+  "Name": "260-fw-update-cc100",
+  "Status": {},
+  "CreationDate": 1706253227,
+  "EdgeGroups": [
+    14
+  ],
+  "ProjectPath": "/data/edge_stacks/13",
+  "EntryPoint": "docker-compose.yml",
+  "Version": 6,
+  "NumDeployments": 0,
+  "ManifestPath": "",
+  "DeploymentType": 0,
+  "UseManifestNamespaces": false,
+  "Prune": false
+}

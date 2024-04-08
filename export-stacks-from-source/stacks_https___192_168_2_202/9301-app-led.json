@@ -1,0 +1,117 @@
+{
+  "Id": 31,
+  "Name": "9301-app-led",
+  "Status": {
+    "17": {
+      "Status": [
+        {
+          "Time": 1710769351,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710769353,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710769354,
+          "Type": 2,
+          "Error": "failed to redeploy stack",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711025426,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711025430,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711025438,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711025440,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711087053,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711087058,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711087073,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711087080,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711087730,
+          "Type": 9,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711087732,
+          "Type": 4,
+          "Error": "",
+          "RollbackTo": null
+        }
+      ],
+      "EndpointID": 17,
+      "DeploymentInfo": {
+        "Version": 0,
+        "FileVersion": 0,
+        "ConfigHash": ""
+      },
+      "Details": {
+        "Pending": false,
+        "Ok": false,
+        "Error": false,
+        "Acknowledged": false,
+        "Remove": false,
+        "RemoteUpdateSuccess": false,
+        "ImagesPulled": false
+      },
+      "Error": "",
+      "Type": 0
+    }
+  },
+  "CreationDate": 1710764029,
+  "EdgeGroups": [
+    34
+  ],
+  "ProjectPath": "/data/edge_stacks/31",
+  "EntryPoint": "docker-compose.yml",
+  "Version": 1,
+  "NumDeployments": 0,
+  "ManifestPath": "",
+  "DeploymentType": 0,
+  "UseManifestNamespaces": false,
+  "Prune": false
+}

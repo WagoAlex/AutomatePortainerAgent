@@ -1,0 +1,813 @@
+{
+  "Id": 11,
+  "Name": "260-fw-update-edge-controller",
+  "Status": {
+    "16": {
+      "Status": [
+        {
+          "Time": 1709035540,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709035547,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709035548,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709035549,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709098283,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709098289,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709098292,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709098293,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709098875,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709098882,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709098882,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709098884,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709192946,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709192948,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709192951,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709192952,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709193540,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709193547,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709193548,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709193549,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709211319,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709211326,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709211329,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709211330,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709211916,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709211923,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709211924,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709211926,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709271080,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709271086,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709271089,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709271090,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709271674,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709271681,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709271682,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709271683,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709534100,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709534106,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709534109,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709534111,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709534690,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709534697,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709534698,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709534699,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709619446,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709619452,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709619455,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709619456,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709620040,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709620047,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709620048,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709620050,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709708887,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709708893,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709708896,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709708898,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709709482,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709709489,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709709489,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709709491,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709794359,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709794365,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709794368,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709794370,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709794957,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709794965,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709794965,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709794966,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709875877,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709875878,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709875881,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709875882,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709876470,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709876472,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709876472,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1709876473,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710135079,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710135081,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710135084,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710135085,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710135672,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710135673,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710135673,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710135675,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710146461,
+          "Type": 9,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710146462,
+          "Type": 4,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711022293,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711022297,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711022368,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711022369,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711022900,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711022985,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711023024,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711023027,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711023116,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711023125,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711023129,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711023221,
+          "Type": 2,
+          "Error": "failed to wait for status: context deadline exceeded",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711031807,
+          "Type": 9,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711031808,
+          "Type": 4,
+          "Error": "",
+          "RollbackTo": null
+        }
+      ],
+      "EndpointID": 16,
+      "DeploymentInfo": {
+        "Version": 0,
+        "FileVersion": 0,
+        "ConfigHash": ""
+      },
+      "Details": {
+        "Pending": false,
+        "Ok": false,
+        "Error": false,
+        "Acknowledged": false,
+        "Remove": false,
+        "RemoteUpdateSuccess": false,
+        "ImagesPulled": false
+      },
+      "Error": "",
+      "Type": 0
+    },
+    "18": {
+      "Status": [
+        {
+          "Time": 1710162727,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710162903,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710163084,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710163100,
+          "Type": 9,
+          "Error": "",
+          "RollbackTo": null
+        }
+      ],
+      "EndpointID": 18,
+      "DeploymentInfo": {
+        "Version": 0,
+        "FileVersion": 0,
+        "ConfigHash": ""
+      },
+      "Details": {
+        "Pending": false,
+        "Ok": false,
+        "Error": false,
+        "Acknowledged": false,
+        "Remove": false,
+        "RemoteUpdateSuccess": false,
+        "ImagesPulled": false
+      },
+      "Error": "",
+      "Type": 0
+    },
+    "21": {
+      "Status": [
+        {
+          "Time": 1710944217,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710944221,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710944305,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710944306,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710944789,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710944797,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710944798,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710944803,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711001005,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711001015,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711001018,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711001141,
+          "Type": 2,
+          "Error": "failed to wait for status: context deadline exceeded",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711005866,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711005873,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711005876,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711005944,
+          "Type": 2,
+          "Error": "failed to wait for status: context deadline exceeded",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711022303,
+          "Type": 9,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711022304,
+          "Type": 4,
+          "Error": "",
+          "RollbackTo": null
+        }
+      ],
+      "EndpointID": 21,
+      "DeploymentInfo": {
+        "Version": 0,
+        "FileVersion": 0,
+        "ConfigHash": ""
+      },
+      "Details": {
+        "Pending": false,
+        "Ok": false,
+        "Error": false,
+        "Acknowledged": false,
+        "Remove": false,
+        "RemoteUpdateSuccess": false,
+        "ImagesPulled": false
+      },
+      "Error": "",
+      "Type": 0
+    }
+  },
+  "CreationDate": 1706252665,
+  "EdgeGroups": [
+    13
+  ],
+  "ProjectPath": "/data/edge_stacks/11",
+  "EntryPoint": "docker-compose.yml",
+  "Version": 7,
+  "NumDeployments": 0,
+  "ManifestPath": "",
+  "DeploymentType": 0,
+  "UseManifestNamespaces": false,
+  "Prune": false
+}

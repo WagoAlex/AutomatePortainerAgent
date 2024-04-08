@@ -1,0 +1,45 @@
+{
+  "Id": 17,
+  "Name": "04-metric-agent",
+  "Status": {
+    "18": {
+      "Status": [
+        {
+          "Time": 1710162727,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        }
+      ],
+      "EndpointID": 18,
+      "DeploymentInfo": {
+        "Version": 0,
+        "FileVersion": 0,
+        "ConfigHash": ""
+      },
+      "Details": {
+        "Pending": false,
+        "Ok": false,
+        "Error": false,
+        "Acknowledged": false,
+        "Remove": false,
+        "RemoteUpdateSuccess": false,
+        "ImagesPulled": false
+      },
+      "Error": "",
+      "Type": 0
+    }
+  },
+  "CreationDate": 1707497020,
+  "EdgeGroups": [
+    6
+  ],
+  "ProjectPath": "/data/edge_stacks/17",
+  "EntryPoint": "docker-compose.yml",
+  "Version": 1,
+  "NumDeployments": 0,
+  "ManifestPath": "",
+  "DeploymentType": 0,
+  "UseManifestNamespaces": false,
+  "Prune": false
+}

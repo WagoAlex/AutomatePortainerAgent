@@ -1,0 +1,327 @@
+{
+  "Id": 26,
+  "Name": "240-fw-update-pfc200",
+  "Status": {
+    "12": {
+      "Status": [
+        {
+          "Time": 1710493168,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710493172,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710493245,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710493247,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710493918,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710493923,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710493924,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710493926,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710494027,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710494031,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710494033,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710494035,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710494170,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710494173,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710494179,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710494182,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710494692,
+          "Type": 9,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710494693,
+          "Type": 4,
+          "Error": "",
+          "RollbackTo": null
+        }
+      ],
+      "EndpointID": 12,
+      "DeploymentInfo": {
+        "Version": 0,
+        "FileVersion": 0,
+        "ConfigHash": ""
+      },
+      "Details": {
+        "Pending": false,
+        "Ok": false,
+        "Error": false,
+        "Acknowledged": false,
+        "Remove": false,
+        "RemoteUpdateSuccess": false,
+        "ImagesPulled": false
+      },
+      "Error": "",
+      "Type": 0
+    },
+    "13": {
+      "Status": [
+        {
+          "Time": 1710412130,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710412135,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710412250,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710412256,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710412271,
+          "Type": 9,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1710412274,
+          "Type": 4,
+          "Error": "",
+          "RollbackTo": null
+        }
+      ],
+      "EndpointID": 13,
+      "DeploymentInfo": {
+        "Version": 0,
+        "FileVersion": 0,
+        "ConfigHash": ""
+      },
+      "Details": {
+        "Pending": false,
+        "Ok": false,
+        "Error": false,
+        "Acknowledged": false,
+        "Remove": false,
+        "RemoteUpdateSuccess": false,
+        "ImagesPulled": false
+      },
+      "Error": "",
+      "Type": 0
+    },
+    "18": {
+      "Status": [
+        {
+          "Time": 1711088043,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088048,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088141,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088144,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088798,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088801,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088803,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088805,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088900,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088904,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088905,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711088907,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711089124,
+          "Type": 3,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711089128,
+          "Type": 8,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711089148,
+          "Type": 1,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711089153,
+          "Type": 7,
+          "Error": "",
+          "RollbackTo": null
+        },
+        {
+          "Time": 1711089182,
+          "Type": 9,
+          "Error": "",
+          "RollbackTo": null
+        }
+      ],
+      "EndpointID": 18,
+      "DeploymentInfo": {
+        "Version": 0,
+        "FileVersion": 0,
+        "ConfigHash": ""
+      },
+      "Details": {
+        "Pending": false,
+        "Ok": false,
+        "Error": false,
+        "Acknowledged": false,
+        "Remove": false,
+        "RemoteUpdateSuccess": false,
+        "ImagesPulled": false
+      },
+      "Error": "",
+      "Type": 0
+    }
+  },
+  "CreationDate": 1710408077,
+  "EdgeGroups": [
+    29
+  ],
+  "ProjectPath": "/data/edge_stacks/26",
+  "EntryPoint": "docker-compose.yml",
+  "Version": 2,
+  "NumDeployments": 0,
+  "ManifestPath": "",
+  "DeploymentType": 0,
+  "UseManifestNamespaces": false,
+  "Prune": false
+}

@@ -1,0 +1,17 @@
+{
+  "Id": 25,
+  "Name": "8210-app-analytics",
+  "Status": {},
+  "CreationDate": 1710161917,
+  "EdgeGroups": [
+    27
+  ],
+  "ProjectPath": "/data/edge_stacks/25",
+  "EntryPoint": "docker-compose.yml",
+  "Version": 3,
+  "NumDeployments": 0,
+  "ManifestPath": "",
+  "DeploymentType": 0,
+  "UseManifestNamespaces": false,
+  "Prune": false
+}
