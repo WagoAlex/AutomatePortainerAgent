@@ -15,7 +15,7 @@ This repository contains scripts and tools for setting up and managing Portainer
 ## Usage
 1. Clone the repository to your local machine.
 2. Navigate to the directory containing the scripts.
-3. Run the setup script (`setup.sh`) and follow the prompts.
+3. Run the setup script (`.sh`) and follow the prompts.
 
 ## Dependencies
 - `jq` for JSON parsing
