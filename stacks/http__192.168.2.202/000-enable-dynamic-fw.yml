@@ -1,8 +1,0 @@
-version: '3.7'
-services:
-  Prepare-Device:
-    image:  192.168.2.202:5000/prepare-dyn-fw:1.0.26.13
-    container_name: "030---wago-prepare-dyn-fw"
-    volumes:
-      - /root/:/root
-    restart: no
