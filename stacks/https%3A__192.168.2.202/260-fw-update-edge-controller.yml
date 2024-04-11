@@ -1,0 +1,11 @@
+     
+version: '3.7'
+
+services:
+  fw:
+    image:  192.168.2.202:5000/fw-update-edge:04.04.03-26
+    restart: on-failure:1
+    environment:
+      - PASSWORD=wago02
+      - SERVICE_NAME=fw
+      - MAX_UPDATE_RETRYS=5

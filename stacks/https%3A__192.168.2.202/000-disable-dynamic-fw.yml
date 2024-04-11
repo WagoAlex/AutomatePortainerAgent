@@ -1,0 +1,8 @@
+version: '3.7'
+services:
+  UnPrepare-Device:
+    image:  192.168.2.202:5000/unprepare-dyn-fw:1.0.26.13
+    container_name: "031---wago-prepare-dyn-fw"
+    volumes:
+      - /root/:/root
+    restart: no
