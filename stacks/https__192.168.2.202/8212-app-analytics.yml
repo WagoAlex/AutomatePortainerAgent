@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  Wago-CAA-Runtime:
+    image: 192.168.2.202:5000/pfc-8212-fw26-app-analytics:1.2.1
+    container_name: "101-8212-app-analytics-FW26"
+    network_mode: host
+    privileged: true
+    volumes:
+      - /var/run/dbus/system_bus_socket:/var/run/dbus/system_bus_socket
+      - /tmp:/tmp
+      - /drm:/drm
+    command: "--init"

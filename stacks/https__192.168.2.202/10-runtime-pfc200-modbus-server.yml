@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  pfc-modbus-server:
+    image: 192.168.2.202:5000/pfc-modbus-server
+    container_name: "040---wago-pfc-modbus-server"
+    restart: unless-stopped
+    privileged: true
+    ports:
+      - "502:502"
+    volumes:
+      - /var/run/dbus/system_bus_socket:/var/run/dbus/system_bus_socket
+    init: true

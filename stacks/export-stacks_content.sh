@@ -33,14 +33,17 @@ authenticate() {
 # Function to create download directory based on server name
 create_download_dir() {
     local server_name=$1
-    local download_dir="${server_name//\//_}" # Replace slashes with underscores
-    mkdir -p "$download_dir"
-    echo "$download_dir"
+    # Remove the protocol and replace slashes with underscores, remove trailing slash if present
+    local formatted_server_name="${server_name/https:\/\//https__}"
+    formatted_server_name="${formatted_server_name%/}"
+    mkdir -p "$formatted_server_name"
+    echo "$formatted_server_name"
 }
 
 # Function to download specified edge stacks
 download_selected_stacks() {
     local download_dir=$1
+    shift # Remove the first argument, which is the download directory
     local selected_ids=("$@")
 
     for stack_id in "${selected_ids[@]}"; do
@@ -50,6 +53,11 @@ download_selected_stacks() {
         local stack_name=$(curl -s -k -X GET \
             -H "Authorization: Bearer $JWT_TOKEN" \
             "${DEFAULT_BASE_URL}:9443/api/edge_stacks/$stack_id" | jq -r '.Name')
+
+        if [ "$stack_name" == "null" ]; then
+            echo "Failed to download stack with ID '$stack_id': Stack does not exist."
+            continue
+        fi
 
         # Format stack content to Docker Compose YAML format
         formatted_content=$(echo "$stack_content" | jq -r '.StackFileContent' | sed 's/\\n/\n/g' | sed 's/\\\\/\\/g')

@@ -1,0 +1,8 @@
+version: '3.7'
+
+services:
+  FW-Info:
+    image:  192.168.2.202:5000/alpine-arm
+    command: "cat /etc/REVISIONS"
+    volumes:
+      - /etc:/etc
