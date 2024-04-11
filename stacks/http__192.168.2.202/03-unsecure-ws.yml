@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  Wago-Secure-PLC:
+    image: 192.168.2.202:5000/secure-pfc:1.0.0
+    container_name: "020---wago-unsecure-pfc"
+    command: "/home/alpine/unsecure-webserver.sh"
+    volumes:
+      - /root/:/root
+    restart: no

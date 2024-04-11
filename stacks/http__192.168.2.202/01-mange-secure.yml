@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+  Wago-Manage-Secure:
+    image: 192.168.2.202:5000/secure-manager:1.0.0
+    container_name: "010---wago-manage-secure"
+    command: "/home/alpine/key.sh"
+    environment:
+      - NEW_PFC_PASSWORD="wago02"
+      - RANDOM_PASSWORD="no"
+      - DISABLE_SD_BOOT="no"
+    volumes:
+      - /root/:/root
+    restart: no

@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  Wago-CAA-Runtime:
+    image: 192.168.2.202:5000/cc-9301-app-analytics:1.0
+    container_name: "100-9301-app-analytics-FW26"
+    network_mode: host
+    privileged: true
+    volumes:
+      - /var/run/dbus/system_bus_socket:/var/run/dbus/system_bus_socket
+      - /tmp:/tmp
+      - /drm:/drm
+    command: "--init"
