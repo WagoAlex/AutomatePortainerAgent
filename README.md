@@ -4,12 +4,15 @@ This repository contains scripts and tools for setting up and managing Portainer
 ## Description
 This repository contains scripts and tools for setting up and managing Portainer Edge Agents.
 
-## Features
+## Features - CE (Community Edition)
 - Automated setup of Portainer Edge Agents
 - Creation of multiple environments with customizable configurations
 - Integration with Portainer API for authentication and endpoint management
 - Interactive prompts for user input
 - Edge information saved in CSV files for easy reference
+- Save / Export Edge Stacks as Compose-File
+- Import Stacks as File
+- Create Tags and Groups from text-file
 
 ## Usage
 1. Clone the repository to your local machine.
